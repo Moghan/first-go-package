@@ -1,4 +1,4 @@
-module moghan/hello
+module github.com/Moghan/first-go-package
 
 go 1.16
 
